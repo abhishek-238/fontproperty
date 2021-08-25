@@ -1,0 +1,31 @@
+#main{
+    border-width: 1px solid black;
+    margin-bottom: 100%;
+    padding:94%;
+    height:100%;
+    
+    background-color: cyan;
+}
+#div_header{
+    border-width: 1px solid red;
+    padding: 20px;
+    margin-bottom: 50%;
+    width: 50%;
+    height:20%;
+    position: absolute;
+    left: 30%;
+    top: 15px;
+    background-color: chartreuse;
+
+}
+#div_body{
+    border-width: 1px solid blue;
+    padding: 30px;
+    margin-bottom: 30%;
+    width: 35%;
+    height:20%;
+    position: absolute;
+    left: 30%;
+    top: 50%; 
+    background-color: #fff;
+}
